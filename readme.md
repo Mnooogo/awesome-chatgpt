@@ -296,6 +296,13 @@
 
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/) - Learn how to build an app that enables users to improve their writing by rephrasing text.
 - [Stream data from ChatGPT with JavaScript](https://umaar.com/dev-tips/269-web-streams-openai/) - Learn how to consume streaming data from ChatGPT using vanilla JavaScript.
+## 💬 Communities
+## 💬 Communities
+
+- [IT Pro and AI – Facebook Group](https://www.facebook.com/groups/2672080656318470)  
+  A global English-speaking group for developers, engineers, and GPT builders.  
+  Focused on prompt engineering, AI assistants, automation workflows, Node.js, and real-world GPT use cases.  
+  Created and curated by [Stefan Spasov](https://devcodeapp.site)
 
 ## Community
 
